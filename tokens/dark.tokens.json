@@ -1,0 +1,129 @@
+{
+  "background": {
+    "$type": "color",
+    "$value": { "hex": "#0A0A0A" }
+  },
+  "foreground": {
+    "$type": "color",
+    "$value": { "hex": "#FAFAFA" }
+  },
+  "card": {
+    "$type": "color",
+    "$value": { "hex": "#171717" }
+  },
+  "card-foreground": {
+    "$type": "color",
+    "$value": { "hex": "#FAFAFA" }
+  },
+  "popover": {
+    "$type": "color",
+    "$value": { "hex": "#171717" }
+  },
+  "popover-foreground": {
+    "$type": "color",
+    "$value": { "hex": "#FAFAFA" }
+  },
+  "primary": {
+    "$type": "color",
+    "$value": { "hex": "#FAFAFA" }
+  },
+  "primary-foreground": {
+    "$type": "color",
+    "$value": { "hex": "#171717" }
+  },
+  "secondary": {
+    "$type": "color",
+    "$value": { "hex": "#262626" }
+  },
+  "secondary-foreground": {
+    "$type": "color",
+    "$value": { "hex": "#FAFAFA" }
+  },
+  "muted": {
+    "$type": "color",
+    "$value": { "hex": "#262626" }
+  },
+  "muted-foreground": {
+    "$type": "color",
+    "$value": { "hex": "#A3A3A3" }
+  },
+  "accent": {
+    "$type": "color",
+    "$value": { "hex": "#262626" }
+  },
+  "accent-foreground": {
+    "$type": "color",
+    "$value": { "hex": "#FAFAFA" }
+  },
+  "destructive": {
+    "$type": "color",
+    "$value": { "hex": "#DC2626" }
+  },
+  "border": {
+    "$type": "color",
+    "$value": { "hex": "#262626" }
+  },
+  "input": {
+    "$type": "color",
+    "$value": { "hex": "#262626" }
+  },
+  "ring": {
+    "$type": "color",
+    "$value": { "hex": "#737373" }
+  },
+  "chart-1": {
+    "$type": "color",
+    "$value": { "hex": "#3B82F6" }
+  },
+  "chart-2": {
+    "$type": "color",
+    "$value": { "hex": "#34D399" }
+  },
+  "chart-3": {
+    "$type": "color",
+    "$value": { "hex": "#F4A462" }
+  },
+  "chart-4": {
+    "$type": "color",
+    "$value": { "hex": "#A78BFA" }
+  },
+  "chart-5": {
+    "$type": "color",
+    "$value": { "hex": "#F87171" }
+  },
+  "sidebar": {
+    "$type": "color",
+    "$value": { "hex": "#171717" }
+  },
+  "sidebar-foreground": {
+    "$type": "color",
+    "$value": { "hex": "#FAFAFA" }
+  },
+  "sidebar-primary": {
+    "$type": "color",
+    "$value": { "hex": "#3B82F6" }
+  },
+  "sidebar-primary-foreground": {
+    "$type": "color",
+    "$value": { "hex": "#FAFAFA" }
+  },
+  "sidebar-accent": {
+    "$type": "color",
+    "$value": { "hex": "#262626" }
+  },
+  "sidebar-accent-foreground": {
+    "$type": "color",
+    "$value": { "hex": "#FAFAFA" }
+  },
+  "sidebar-border": {
+    "$type": "color",
+    "$value": { "hex": "#262626" }
+  },
+  "sidebar-ring": {
+    "$type": "color",
+    "$value": { "hex": "#737373" }
+  },
+  "$extensions": {
+    "com.figma.modeName": "dark"
+  }
+}
